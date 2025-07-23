@@ -1,6 +1,18 @@
-node_modules
-dist
-.vscode
+# Node modules
+node_modules/
+
+# Build output
+dist/
+
+# Vercel config
+.vercel/
+
+# Environment variables
 .env
-.vercel
+
+# Local editor settings
+.vscode/
+.idea/
+
+# macOS system files
 .DS_Store
